@@ -5,9 +5,8 @@
 instagram: minsu._.06  
 school e-mail: s22057@gsm.hs.kr  
 personal e-mail: kmsu2046@gmail.com  
-## 그 외 잡다한 정보
-mbti:ISTP-T->ISFP-T  
-<!---
-min9-530/min9-530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## __Personal information__
+mbti:ISTP-T->ISFP-T 
+Valorant: 뱁새색희#짹짹짹짹  
+LOL: moonpeach2189
+Steam: Shining_Stars4
