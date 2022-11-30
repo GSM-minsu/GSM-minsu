@@ -8,5 +8,5 @@ personal e-mail: kmsu2046@gmail.com
 ## __Personal information__
 Valorant: 뱁새색희#짹짹짹짹  
 LOL: moonpeach2189  
-Steam: Shining_Stars4
+Steam: Shining_Stars4  
 __📖📖자 다시 공부를 시작해 봅시다!__
