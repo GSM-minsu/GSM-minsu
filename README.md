@@ -2,7 +2,7 @@
 저는 👀 모던한 프론트엔드 기술에 관심이 많습니다.  
 현재 🌱 React.JS를 공부중입니다.  
 
-![github-contribution-grid-snake](https://github.com/min9-530/min9-530/assets/104071568/706a7d5a-8982-452c-abd5-37b92129e561)
+[![뱀](https://github.com/min9-530/min9-530/assets/104071568/706a7d5a-8982-452c-abd5-37b92129e561)](https://github.com/min9-530/min9-530)
 
 ## __Contact me__
 
